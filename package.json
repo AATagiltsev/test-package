@@ -1,0 +1,22 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AATagiltsev/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AATagiltsev/test-package/issues"
+  },
+  "homepage": "https://github.com/AATagiltsev/test-package#readme",
+  "dependencies": {
+    "@aatagiltsev/ajs": "^1.0.0"
+  }
+}
